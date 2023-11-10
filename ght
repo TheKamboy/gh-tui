@@ -1,0 +1,5 @@
+#!/bin/bash
+
+export GUM_FILTER_PROMPT="gh "
+
+printf "repo\ndash" | gum filter
